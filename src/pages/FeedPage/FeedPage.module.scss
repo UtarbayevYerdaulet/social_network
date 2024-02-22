@@ -1,0 +1,25 @@
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.postBlock{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.imagePost{
+    max-width: 400px;
+    max-height: 400px;
+    border-radius: 20px;
+}
+.postText{
+    color: white;
+    font-weight: 400;
+}
+
+.postId{
+    color: white;
+    font-weight: 600;
+}

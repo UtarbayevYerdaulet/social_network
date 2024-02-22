@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "anime",
+      "password": "qwerty"
+    },
+    {
+      "login": "dmnfbjdsb",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "login": "dmnfbjdsb",
+      "password": "12345",
+      "id": 3
+    },
+    {
+      "login": "dmnfbjdsb",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "login": "dmnfbjdsb",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "login": "jhdsgcjh",
+      "password": "dssdsd",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "text": "text qwerty 1",
+      "image": "https://i.pinimg.com/originals/da/17/73/da177351b6b4c559e3be45c2ff49b68f.jpg",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "text": "text qwerty 2",
+      "image": "https://64.media.tumblr.com/885009395e73be44b54be678d2d373e8/tumblr_pdtlkmTOwt1sx8ybdo9_400.png",
+      "userId": 2
+    },
+    {
+      "id": 3,
+      "text": "text qwerty 3",
+      "image": "https://i.pinimg.com/originals/46/9c/6f/469c6f7badd2745729fc122782c19ff9.jpg",
+      "userId": 3
+    },
+    {
+      "id": 4,
+      "text": "text qwerty 4",
+      "image": "https://64.media.tumblr.com/885009395e73be44b54be678d2d373e8/tumblr_pdtlkmTOwt1sx8ybdo9_400.png",
+      "userId": 4
+    },
+    {
+      "id": 5,
+      "text": "text qwerty 5",
+      "image": "https://i.pinimg.com/originals/46/9c/6f/469c6f7badd2745729fc122782c19ff9.jpg",
+      "userId": 5
+    },
+    {
+      "id": 6,
+      "text": "text qwerty 6",
+      "image": "https://i.pinimg.com/originals/da/17/73/da177351b6b4c559e3be45c2ff49b68f.jpg",
+      "userId": 6
+    }
+  ]
+}
